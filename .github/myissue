@@ -1,0 +1,11 @@
+Sorry - I'm trying to report an issue I'm having & can not find a place to post it - issue template is not available to me.
+I will post it here - If anyone can tell me how & where it belongs I'll be happy to post it there.  Here goes nothing...
+
+i have an ISSUE with kernel panic following sleep if the computer is attempting to download a large file(s) overnight.
+I'm running Monterey with the latest OpenCore Legacy patch + Post Patches on a mid-2010 15" MacBookPRO.
+Here's the thing - Sleep & Wake-up seem to work when I'm using the machine normally but not if left alone for a long period - 
+like overnight.
+I've included a TEXT file with the Kernel Error Report & some specifics about my Mac - let me know if I've forgotten something 
+important.
+Please put this in the correct location or repository & send me a note on what I don't know how to do... thanks so much! 
+leemidi@gmail.com
